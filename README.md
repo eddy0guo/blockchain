@@ -1,2 +1,2 @@
 # blockchain
-blockchain_study
+Learning on block chain, step by step
